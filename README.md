@@ -1,1 +1,2 @@
 # SimonSays
+This is a variation of a Simon Says game, intended to be run on an Arduino Uno board. This program allows the user to make a selection from a list of preloaded songs which they then play through measure by measure. The program iterates through each song by measure, starting from the beginning of the song with each iteration while checking for correctness of user input. The user scores points by playing correct notes and the high score for each song is stored and displayed in the menu.
